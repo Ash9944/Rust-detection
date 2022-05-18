@@ -1,1 +1,1 @@
-# Rust-detection
+# Rust-detection using CNN algorith
